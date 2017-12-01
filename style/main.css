@@ -19,7 +19,7 @@ a{
 /* ----------------------> HEADER ----------------------> */
 body > header{
 	grid-area: head;
-	background-image: url("https://cdn.pixabay.com/photo/2016/03/03/08/42/banner-1233715_960_720.jpg");
+	background-image: url("../images/header.jpg");
 	background-repeat: no-repeat;
 	background-size: 100% 150px;
 	text-align: center;
