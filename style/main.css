@@ -172,7 +172,7 @@ footer p{
 
 .formulario fieldset{
 	background-color: #DCD0c0;
-	animation: fadein 4s;
+	animation: fadein 3s;
 	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 
@@ -253,4 +253,3 @@ main > section > div ul {
 .imageArticle{
 	margin-top: 10px;
 }
-
